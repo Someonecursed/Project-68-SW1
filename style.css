@@ -1,0 +1,13 @@
+.annoucement 
+{
+    background-color: teal;
+    font-weight: bolder;
+    color: white;
+    line-height: 2;
+}
+
+#v {
+    border: 5px dashed teal;
+    margin-top: 20px;
+    padding: 5px;
+}
